@@ -8,6 +8,6 @@ The WazuhPermOwnVerifier allows verifying the needed permissions/ownership that 
 
 # How to use it
 
-1 - Clone the repo 
+1 - Clone the repo in your Wazuh Manager `git clone https://github.com/elwali10/WazuhPermOwnVerifier.git WazuhPermOwnVerifier && cd "$_"` 
 
 2 - Run the script with the corresponding Wazuh version: `bash verify-manager-permOwner wazuh-4.2.5-PO`
